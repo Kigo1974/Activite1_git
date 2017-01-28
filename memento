@@ -1,1 +1,3 @@
 Un deuxième memo des commandes git
+git commit //permet de créer un commit
+git log  //permet d'afficher l'historique des modifications
