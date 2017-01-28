@@ -1,3 +1,5 @@
 Memo des commandes git
 git init //permet d'initialiser git
 git add monfichier //permet de mettre monfichier dans l'index pour qu'il soit track
+git commit //permet de créer un commit
+git log  //permet d'afficher l'historique des modifications
